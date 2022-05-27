@@ -35,11 +35,16 @@ Summary of the dataset:\
 
 Some insights from data visualization:
 
-**Rating Count Distribution** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**Rating vs Number of Ratings**
+**Rating Count Distribution** **Rating vs Number of Ratings**
 * The most common rating give is about 8 out of 10
-&emsp;&emsp;&emsp;&emsp; * Very similar to the Rating Count Distribution
-* There is very low number of ratings under 5                         
-<img src="images/rating_distt.PNG"> <img src="images/jointplot.PNG" width=400> 
+* There is very low number of ratings under 5    
+
+<img src="images/rating_distt.PNG">
+
+**Rating vs Number of Ratings**
+* Very similar to the Rating Count Distribution
+* 
+<img src="images/jointplot.PNG" width=400> 
 
 **Most Frequently Rated Books** 
 
