@@ -43,7 +43,6 @@ Some insights from data visualization:
 
 **Rating vs Number of Ratings**
 * Very similar to the Rating Count Distribution
-* 
 <img src="images/jointplot.PNG" width=400> 
 
 **Most Frequently Rated Books** 
