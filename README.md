@@ -39,11 +39,11 @@ Some visualized insight from data:
 * The most common rating is about 8 out of 10.
 * There is very low number of ratings under 5.   
 
-<img src="images/rating_distt.PNG" width=700>
+<img src="images/rating_distt.PNG" width=500>
 
 **Rating vs Number of Ratings**
 * Very similar to the Rating Count Distribution
-<img src="images/jointplot.PNG" width=700> 
+<img src="images/jointplot.PNG" width=600> 
 
 **Most Frequently Rated Books** 
 
