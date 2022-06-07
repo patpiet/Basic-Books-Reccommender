@@ -35,7 +35,7 @@ Summary of the dataset:\
 
 Some visualized insights from data:
 
-**Rating Count Distribution** **Rating vs Number of Ratings**
+**Rating Distribution**
 * The most common rating is about 8 out of 10.
 * There is very low number of ratings under 5.   
 
