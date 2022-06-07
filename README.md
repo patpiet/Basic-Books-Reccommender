@@ -33,7 +33,7 @@ Summary of the dataset:\
 
 ## Exploratory Data Analysis
 
-Some visualized insight from data:
+Some visualized insights from data:
 
 **Rating Count Distribution** **Rating vs Number of Ratings**
 * The most common rating is about 8 out of 10.
